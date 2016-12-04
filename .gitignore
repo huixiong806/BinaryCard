@@ -1,0 +1,9 @@
+.vs/BinaryCard/v14/.suo
+dependencies
+Release
+Debug
+playerA(Client)/Release
+playerB(Host)/Release
+playerA(Client)/Debug
+playerB(Host)/Debug
+BinaryCard.sdf
